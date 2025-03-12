@@ -54,15 +54,19 @@ To streamline the workflow, I led the transition to an automated reporting syste
    Generated polished Word documents with minimal manual formatting using python-docx.
 
 **The Impact**
-
-    4x Increase in Productivity: Report generation capacity increased from 2–3 reports per day to 10.
-    Time Savings: The new process significantly reduced manual effort while maintaining accuracy.
-    Improved Report Presentation: Automated styling ensured reports were well-formatted and professional without additional manual adjustments.
-    Client Satisfaction: Faster report delivery led to highly positive client feedback.
+  4x Increase in Productivity: Report generation capacity increased from 2–3 reports per day to 10.
+  
+  Time Savings: The new process significantly reduced manual effort while maintaining accuracy.
+    
+  Improved Report Presentation: Automated styling ensured reports were well-formatted and professional without additional manual adjustments.
+  
+  Client Satisfaction: Faster report delivery led to highly positive client feedback.
 
 **Learning Experience**
 
 This automation transformed our reporting workflow, making it faster, scalable, and highly efficient. The solution became a standardized approach for our survey-based projects. The method was successfully applied to multiple projects and ad-hoc reporting needs.
+
+ 
  **Technical Approach**
 📊 Data Source: Survey Data
 🛠 Tools Used: Python (Pandas, NumPy, python-docx), Excel, STATA, SurveyCTO
