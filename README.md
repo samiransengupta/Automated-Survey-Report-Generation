@@ -96,9 +96,7 @@ This automation transformed our reporting workflow, making it faster, scalable, 
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/5d018e47-9b72-4127-b953-f6aec043f8ec" />
 
-<img width="638" alt="image" src="https://github.com/user-attachments/assets/025da322-fb7a-47db-b417-94edbd26be9f" />
-
-<img width="682" alt="image" src="https://github.com/user-attachments/assets/2abd9660-9204-4146-84e6-278ccb6a9515" />
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/2abd9660-9204-4146-84e6-278ccb6a9515" />
 
 
 
