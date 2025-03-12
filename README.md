@@ -1,11 +1,14 @@
 # Automated-Survey-Report-Generation
 📢 **Disclaimer**
-This repository demonstrates the automated survey report generation process using sample data. While some real survey questions are included, the respondent answers are entirely fictional and solely for demonstration purposes.
 
-No conclusions or insights should be drawn from the sample data.
-The original survey data and reports are proprietary and cannot be shared.
-This project is intended to showcase the workflow, automation process, and methodology used in real-world survey reporting.
-By using this repository, you acknowledge that all data is exemplary and not representative of any real findings.
+*This repository demonstrates the automated survey report generation process using sample data. While some real survey questions are included, the respondent answers are entirely fictional and solely for demonstration purposes.*
+
+*No conclusions or insights should be drawn from the sample data.*
+*The original survey data and reports are proprietary and cannot be shared.*
+
+*This project is intended to showcase the workflow, automation process, and methodology used in real-world survey reporting.*
+
+**By using this repository, you acknowledge that all data is exemplary and not representative of any real findings.**
 
 **Survey Design & Data Collection**
 
