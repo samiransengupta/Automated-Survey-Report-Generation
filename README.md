@@ -54,6 +54,7 @@ To streamline the workflow, I led the transition to an automated reporting syste
    Generated polished Word documents with minimal manual formatting using python-docx.
 
 **The Impact**
+  
   4x Increase in Productivity: Report generation capacity increased from 2–3 reports per day to 10.
   
   Time Savings: The new process significantly reduced manual effort while maintaining accuracy.
@@ -68,12 +69,20 @@ This automation transformed our reporting workflow, making it faster, scalable, 
 
  
  **Technical Approach**
+
 📊 Data Source: Survey Data
+
 🛠 Tools Used: Python (Pandas, NumPy, python-docx), Excel, STATA, SurveyCTO
+
 📑 Important Data Sources & References:
-Publicly available government reports
-Census Data 2011
-Results & Statistics Published by the Election Commission of India (ECI)
+  Publicly available government reports
+  
+  Census Data 2011
+  
+  Results & Statistics Published by the Election Commission of India (ECI)
+
 📝 Number of Survey Questions: 15 to 20 (on average, depending on client needs)
+
 📊 Number of Variables (Columns): 125 to 175 (on average)
+
 📈 Number of Records: Cumulative in nature, ending in millions, depending on survey scope.
